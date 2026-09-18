@@ -73,5 +73,5 @@ Edit `Data/SKSE/Plugins/FPInertia.ini` to customize inertia settings and keybind
 ## Licenses
 
 - **Project License:** [GNU General Public License v3.0 or later (GPL-3.0-or-later)](./LICENSE) with [Modding & Linking Exceptions](./EXCEPTIONS.md)
-- **Original Mod Code:** [MIT License](./LICENSE-ORIGINAL-FPInertia.txt) (c) 2025 DCC Studios
+- **Original Mod Code:** Created by DCC Studios (MIT, see [upstream repository](https://github.com/DCCStudios/SkyrimSE-FPInertia))
 - **Third-Party Notices:** See [THIRD_PARTY_NOTICES.md](./THIRD_PARTY_NOTICES.md) for licenses of CommonLibSSE-NG, DirectXTK, fmt, nlohmann-json, rapidcsv, simpleini, and spdlog.
