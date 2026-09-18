@@ -8,7 +8,7 @@ This project incorporates or links against the following third-party software:
 ## CommonLibSSE-NG
 - **Repository:** https://github.com/alandtse/CommonLibVR (branch `ng`, commit `1504349dddfc622d4d25704bba19e2ade669dc5a`, v8.0.0)
 - **Authors:** alandtse, Ryan (CharmedBaryon), CommonLibSSE contributors
-- **License:** GNU General Public License v3.0 or later (GPL-3.0-or-later) with Modding Exception and GPL-3.0 Linking Exception (see COPYING.txt and EXCEPTIONS.md; historical upstream attribution under MIT in LICENSE-MIT.txt)
+- **License:** GNU General Public License v3.0 or later (GPL-3.0-or-later) with Modding Exception and GPL-3.0 Linking Exception (see COPYING.txt and EXCEPTIONS.md)
 - **Notice:** CommonLibSSE-NG provides the reverse-engineered C++ interface and Address Library integration for Skyrim SE/AE (including 1.7.104.0).
 
 ---
