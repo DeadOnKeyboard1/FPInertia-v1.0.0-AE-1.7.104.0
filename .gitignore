@@ -1,0 +1,94 @@
+# CMake
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Testing/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps/
+CMakeUserPresets.json
+
+# Build directories
+build/
+out/
+cmake-build-*/
+
+# Compile output
+Compile/
+
+# vcpkg
+vcpkg_installed/
+
+# Visual Studio
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+x64/
+x86/
+Debug/
+Release/
+*.pdb
+*.ilk
+*.iobj
+*.ipdb
+
+# Object files
+*.obj
+*.o
+*.lo
+*.slo
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lai
+
+# Executables
+*.exe
+*.out
+*.app
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Archives and Packages
+package/
+packaging/dist/
+releases/
+*.zip
+*.7z
+*.rar
+*.tar.gz
+
