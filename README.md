@@ -73,4 +73,4 @@ Edit `Data/SKSE/Plugins/FPInertia.ini` to customize inertia settings and keybind
 ## Licenses
 
 - **FPInertia:** [MIT License](./LICENSE) (c) 2025 DCC Studios
-- **Third-Party Notices:** See [THIRD_PARTY_NOTICES.md](./THIRD_PARTY_NOTICES.md) for licenses of CommonLibSSE-NG, DirectXTK, fmt, nlohmann-json, rapidcsv, simpleini, and spdlog.
+- **Third-Party Notices:** See [THIRD_PARTY_NOTICES.md](./THIRD_PARTY_NOTICES.md) for licenses of CommonLibSSE-NG (GPL-3.0-or-later with Modding & Linking Exceptions), DirectXTK, fmt, nlohmann-json, rapidcsv, simpleini, and spdlog.
