@@ -7,7 +7,7 @@ This repository contains the source code and build system for the **Skyrim 1.7.1
 > **Note & Credits:**
 > The original mod was created by **[DCC Studios](https://github.com/DCCStudios)**.
 > Original upstream repository: [https://github.com/DCCStudios/SkyrimSE-FPInertia](https://github.com/DCCStudios/SkyrimSE-FPInertia)
-> Original mod page: [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/141018)
+> Original mod page: [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/167883)
 > I did not create the original mod; this project only provides the compatibility port and build updates for Skyrim 1.7.104.0.
 
 ---
